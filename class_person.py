@@ -1,5 +1,5 @@
 class Person():
-	'''Описание человека.'''
+	
 	def __init__(self,name,lastname,age,work):
 		self.name = name
 		self.lastname = lastname
