@@ -1,5 +1,5 @@
 class Country:
-	'''Модель страны'''
+	''' Общая модель страны'''
 	def __init__(self,capital,population):
 		self.capital = capital
 		self.population = population
